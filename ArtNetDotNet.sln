@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArtNetLib", "ArtNetLib\ArtNetLib.csproj", "{32B28697-CA19-4B0B-805E-69A9C0F9102F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArtNetBenchmarks", "ArtNetBenchmarks\ArtNetBenchmarks.csproj", "{1ABF10BB-040C-45C8-BFB2-1DC71B473FE0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32B28697-CA19-4B0B-805E-69A9C0F9102F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32B28697-CA19-4B0B-805E-69A9C0F9102F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32B28697-CA19-4B0B-805E-69A9C0F9102F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32B28697-CA19-4B0B-805E-69A9C0F9102F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1ABF10BB-040C-45C8-BFB2-1DC71B473FE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ABF10BB-040C-45C8-BFB2-1DC71B473FE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ABF10BB-040C-45C8-BFB2-1DC71B473FE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1ABF10BB-040C-45C8-BFB2-1DC71B473FE0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37E098D1-F245-4ED1-86CF-33E15E9F56A5}
+	EndGlobalSection
+EndGlobal
