@@ -1,7 +1,7 @@
 # ArtNetDotNet
 A performance focused .NET ArtNet library 
 
-This was mostly written as a test to play with structs in .NET but turned out to be kind of useful where you need to quickly and easily generate Art-Net packets.  There are methods to convert to byte array via Marshal and BinaryWriter.  See benchmarks below, BinaryWriter ends up being much faster than Marshal for some reason (feel free to shoot me a message with an explanation).
+This was mostly written as a test to play with structs in .NET but turned out to be kind of useful where you need to quickly and easily generate Art-Net packets.  There are methods to convert to byte array via Marshal and BinaryWriter.  See benchmarks below.
 
 ``` ini
 
